@@ -32,7 +32,7 @@
       <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0">
+            <state line="10" column="20" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#165#0" expanded="false" />
               </folding>
@@ -43,34 +43,25 @@
       <file leaf-file-name="recorder.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/nock/lib/recorder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="22" column="2" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scope.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/nock/lib/scope.js">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="7" column="57" selection-start="145" selection-end="145" vertical-scroll-proportion="0.23671497">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mock_something_remote.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mock_something_remote.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mocks/mock_something_remote.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.069078945">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/nock/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="3" column="11" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,8 +90,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/mocks/mock_something_remote.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/node_modules/nock/lib/recorder.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -355,46 +348,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nock/tests/test_intercept.js">
+    <entry file="file://$PROJECT_DIR$/mocks/mock_something_remote.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="191" selection-end="204" vertical-scroll-proportion="0.20723684">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nock/lib/recorder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nock/lib/scope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nock/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="11" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0">
+        <state line="10" column="20" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocks/mock_something_remote.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/nock/lib/recorder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.069078945">
+        <state line="22" column="2" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="57" selection-start="145" selection-end="145" vertical-scroll-proportion="0.23671497">
           <folding />
         </state>
       </provider>
