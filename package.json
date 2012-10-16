@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "nock_test",
+  "version": "0.0.0",
+  "main": "test.js",
+  "dependencies": {
+    "nock":"*",
+    "tap":"*",
+    "request":"*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
